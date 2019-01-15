@@ -9,12 +9,12 @@ const evenGame = () => {
   console.log(`Hello, ${userName}!`);
   let count = 0;
   while (count !== 3) {
-    const randonNum = Math.floor(Math.random() * (1 + 1000 - 1) + 1);
-    console.log(`Question: ${randonNum}`);
+    const randomNum = Math.floor(Math.random() * 1000);
+    console.log(`Question: ${randomNum}`);
     const answer = readlineSync.question('Your answer: ');
     const correctAnswer = answer === 'yes' ? 'no' : 'yes';
-    const chek = isEven(randonNum) ? 'yes' : 'no';
-    if (answer === chek) {
+    const check = isEven(randomNum) ? 'yes' : 'no';
+    if (answer === check) {
       console.log('Correct!');
     } else {
       console.log(`${answer} is wrong answer ;(. Correct answer was '${correctAnswer}'.`);
