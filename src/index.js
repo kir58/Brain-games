@@ -5,5 +5,5 @@ const askUserName = () => {
   console.log(`Hello, ${userName}!`);
 
   return userName;
-}
+};
 export default askUserName;
