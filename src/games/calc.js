@@ -1,25 +1,31 @@
 import { gameFlow, getQuestionAndAnswer } from '..';
+import generateNum from '../utils';
 
 const description = 'What is the result of the expression?';
 
 
 const calcGame = () => {
-  const operand1 = Math.floor(Math.random() * 1000);
-  const operand2 = Math.floor(Math.random() * 1000);
-  const randomOperator = Math.floor(Math.random() * 3);
+  const operand1 = generateNum(1, 100);
+  const operand2 = generateNum(1, 100);
+  const randomOperator = generateNum(1, 2);
   let question;
   let answer;
-  if (randomOperator === 0) {
-    question = `${operand1} - ${operand2}`;
-    answer = operand1 - operand2;
-  } else if (randomOperator === 1) {
-    question = `${operand1} * ${operand2}`;
-    answer = operand1 * operand2;
-  } else if (randomOperator === 2) {
-    question = `${operand1} + ${operand2}`;
-    answer = operand1 + operand2;
+  switch (randomOperator) {
+    case 0:
+      question = `${operand1} - ${operand2}`;
+      answer = operand1 - operand2;
+      break;
+    case 1:
+      question = `${operand1} * ${operand2}`;
+      answer = operand1 * operand2;
+      break;
+    case 2:
+      question = `${operand1} + ${operand2}`;
+      answer = operand1 + operand2;
+      break;
+
+      // no default
   }
   return getQuestionAndAnswer(question, String(answer));
 };
-const loadCalcGame = () => gameFlow(description, calcGame);
-export default loadCalcGame;
+export default () => gameFlow(description, calcGame);
