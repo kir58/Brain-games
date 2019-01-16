@@ -6,4 +6,4 @@
 
 Brain-games set up
 <br>
-<video controls="controls"><source src= "https://asciinema.org/a/NgLI5S6O2ZRbTUR40CYP8I6vR"></video>
+<video controls="controls"><source src="https://asciinema.org/a/NgLI5S6O2ZRbTUR40CYP8I6vR"></video>
