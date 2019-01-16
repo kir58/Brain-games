@@ -18,10 +18,10 @@ export const gameFlow = (description, getPairQuestionAndAnswer) => {
   console.log(`Hello, ${userName}!`);
   console.log(description);
   for (let step = 1; step <= steps; step += 1) {
-    const QuestionAndAnswer = getPairQuestionAndAnswer();
-    const question = getQuestion(QuestionAndAnswer);
+    const questionAndAnswer = getPairQuestionAndAnswer();
+    const question = getQuestion(questionAndAnswer);
     console.log(`Question:  ${question}`);
-    const answer = getAnswer(QuestionAndAnswer);
+    const answer = getAnswer(questionAndAnswer);
     const userAnswer = readlineSync.question('Your answer: ');
     if (answer === userAnswer) {
       console.log('Correct!');
