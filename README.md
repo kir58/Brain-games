@@ -4,3 +4,5 @@
 
 [![Build Status](https://travis-ci.org/kir58/project-lvl1-s412.svg?branch=master)](https://travis-ci.org/kir58/project-lvl1-s412)
 
+Brain-games set up
+https://asciinema.org/a/NgLI5S6O2ZRbTUR40CYP8I6vR
