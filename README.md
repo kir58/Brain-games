@@ -32,7 +32,7 @@ Prime:
 [![asciicast](https://asciinema.org/a/WXlEzmFWj6s77ecNFbegqQz8g.png)](https://asciinema.org/a/WXlEzmFWj6s77ecNFbegqQz8g)
 Progression:
  ```
- 5 - brain-gcd
+ 5 - brain-progression
  ```   
 [![asciicast](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m.png)](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m)
 
