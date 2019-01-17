@@ -1,6 +1,6 @@
 import gameFlow from '..';
 import generateNum from '../utils';
-import cons from 'hexlet-pairs';
+import { cons } from 'hexlet-pairs';
 
 const isEven = num => num % 2 === 0;
 

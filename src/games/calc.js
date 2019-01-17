@@ -1,5 +1,5 @@
 import gameFlow from '..';
-import cons from 'hexlet-pairs';
+import { cons } from 'hexlet-pairs';
 import generateNum from '../utils';
 
 const description = 'What is the result of the expression?';
