@@ -13,3 +13,5 @@ Great common divisor:
 [![asciicast](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni.png)](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni)
 Progression:
 [![asciicast](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN.png)](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN)
+Prime:
+[![asciicast](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde.png](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde)
