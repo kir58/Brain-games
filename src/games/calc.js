@@ -1,8 +1,8 @@
-import { gameFlow, getQuestionAndAnswer } from '..';
+import gameFlow from '..';
+import cons from 'hexlet-pairs';
 import generateNum from '../utils';
 
 const description = 'What is the result of the expression?';
-
 
 const calcGame = () => {
   const operand1 = generateNum(1, 100);
@@ -19,13 +19,10 @@ const calcGame = () => {
       question = `${operand1} * ${operand2}`;
       answer = operand1 * operand2;
       break;
-    case 2:
+    default:
       question = `${operand1} + ${operand2}`;
       answer = operand1 + operand2;
-      break;
-
-      // no default
   }
-  return getQuestionAndAnswer(question, String(answer));
+  return cons(question, String(answer));
 };
 export default () => gameFlow(description, calcGame);
