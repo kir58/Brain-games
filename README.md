@@ -11,3 +11,5 @@ Calc:
 [![asciicast](https://asciinema.org/a/1rt1S1tfH7lsXA9jp02K6Wnxh.png)](https://asciinema.org/a/1rt1S1tfH7lsXA9jp02K6Wnxh)
 Great common divisor:
 [![asciicast](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni.png)](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni)
+Progression:
+[![asciicast](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN.png)](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN)
