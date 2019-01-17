@@ -14,8 +14,8 @@ const selectGame = () => {
   console.log('5 - brain-progression');
   console.log('0 - exit');
   const select = readlineSync.question('Select the game please! ');
-  const numbersofGames = ['0', '1', '2', '3', '4', '5'];
-  if (!numbersofGames.includes(select)) {
+  const options = ['0', '1', '2', '3', '4', '5'];
+  if (!options.includes(select)) {
     console.log('Incorrect input');
     return;
   }
