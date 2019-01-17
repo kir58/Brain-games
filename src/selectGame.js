@@ -16,7 +16,7 @@ const selectGame = () => {
   const select = readlineSync.question('Select the game please! ');
   const options = ['0', '1', '2', '3', '4', '5'];
   if (!options.includes(select)) {
-    console.log('Incorrect input');
+    console.log('Incorrect input.');
     return;
   }
   if (select === '0') {

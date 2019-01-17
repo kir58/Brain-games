@@ -4,8 +4,10 @@
 
 [![Build Status](https://travis-ci.org/kir58/project-lvl1-s412.svg?branch=master)](https://travis-ci.org/kir58/project-lvl1-s412)
 
-Brain-games set up:  
-**sudo npm install -g braingk58**   
+Brain-games set up:
+``` 
+sudo npm install -g braingk58
+```  
 [![asciicast](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R.png)](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R) 
 Even:  
 [![asciicast](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E.png)](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E)
