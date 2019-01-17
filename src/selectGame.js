@@ -16,7 +16,7 @@ const selectGame = () => {
   const select = readlineSync.question('Select the game please! ');
   const numbersofGames = ['1', '2', '3', '4', '5'];
   if (!numbersofGames.includes(select)) {
-    console.log('Goodbye');
+    console.log('Goodbye!');
     return;
   }
   const games = [calc, even, gcd, prime, progression];
@@ -25,7 +25,7 @@ const selectGame = () => {
   if (again === 'yes') {
     selectGame();
   } else {
-    console.log('Goodbye');
+    console.log('Goodbye!');
   }
 };
 export default selectGame;

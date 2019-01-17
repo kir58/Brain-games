@@ -6,14 +6,14 @@
 
 Brain-games set up:  
 **sudo npm install -g braingk58** 
-[![asciicast](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugp)](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugp) 
+[![asciicast](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugp.png)](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugpg) 
 Even:
-[![asciicast](https://asciinema.org/a/NgLI5S6O2ZRbTUR40CYP8I6vR.png)](https://asciinema.org/a/NgLI5S6O2ZRbTUR40CYP8I6vR)
+[![asciicast](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E.png)](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E)
 Calc:
-[![asciicast](https://asciinema.org/a/1rt1S1tfH7lsXA9jp02K6Wnxh.png)](https://asciinema.org/a/1rt1S1tfH7lsXA9jp02K6Wnxh)
+[![asciicast](https://asciinema.org/a/DfRiqmk3PJ2r2r7MGcomLyTjG.png)](https://asciinema.org/a/DfRiqmk3PJ2r2r7MGcomLyTjG)
 Great common divisor:
-[![asciicast](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni.png)](https://asciinema.org/a/ddmjd04Xy3uqQeknl1fSzl1ni)
+[![asciicast](https://asciinema.org/a/2idAKdYFnseJ80gsolo6ec3lR.png)](https://asciinema.org/a/2idAKdYFnseJ80gsolo6ec3lR)
 Progression:
-[![asciicast](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN.png)](https://asciinema.org/a/IlJ0NAsj6XFdUVhg5FKoQKsEN)
+[![asciicast](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m.png)](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m)
 Prime:
 [![asciicast](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde.png)](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde)
