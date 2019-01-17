@@ -18,7 +18,7 @@ const progressionGame = () => {
       progression += `${progressionEl} `;
     }
   }
-  const question = progression;
+  const question = progression.trim();
   const answer = startNum + secretPlace * step;
   return cons(question, String(answer));
 };
