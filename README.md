@@ -5,15 +5,15 @@
 [![Build Status](https://travis-ci.org/kir58/project-lvl1-s412.svg?branch=master)](https://travis-ci.org/kir58/project-lvl1-s412)
 
 Brain-games set up:  
-**sudo npm install -g braingk58** 
-[![asciicast](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugp.png)](https://asciinema.org/a/Jur2pUwT1JN3qRyY26BPw0Ugpg) 
-Even:
+**sudo npm install -g braingk58**   
+[![asciicast](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R.png)](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R) 
+Even:  
 [![asciicast](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E.png)](https://asciinema.org/a/2aarRFpAn8chLajpjHUjDUM7E)
-Calc:
+Calc:  
 [![asciicast](https://asciinema.org/a/DfRiqmk3PJ2r2r7MGcomLyTjG.png)](https://asciinema.org/a/DfRiqmk3PJ2r2r7MGcomLyTjG)
-Great common divisor:
+Great common divisor:  
 [![asciicast](https://asciinema.org/a/2idAKdYFnseJ80gsolo6ec3lR.png)](https://asciinema.org/a/2idAKdYFnseJ80gsolo6ec3lR)
-Progression:
+Progression:  
 [![asciicast](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m.png)](https://asciinema.org/a/Z9VXN7fxJ7fz0wIczWOFqHo3m)
-Prime:
-[![asciicast](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde.png)](https://asciinema.org/a/u21Xw2MkNzGeXaiyk7DbSXRde)
+Prime:  
+[![asciicast](https://asciinema.org/a/WXlEzmFWj6s77ecNFbegqQz8g.png)](https://asciinema.org/a/WXlEzmFWj6s77ecNFbegqQz8g)
