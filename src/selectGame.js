@@ -28,8 +28,10 @@ const selectGame = () => {
   const again = readlineSync.question('Do you want to play again? yes or no ');
   if (again === 'yes') {
     selectGame();
-  } else {
+  } else if (again === 'no') {
     console.log('Goodbye!');
+  } else {
+    console.log('Incorrect input.');
   }
 };
 export default selectGame;
