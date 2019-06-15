@@ -7,7 +7,11 @@
 Brain-games set up:
 ``` 
 sudo npm install -g braingk58
-```  
+```
+Use:
+```
+$ brain-games
+```
 [![asciicast](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R.png)](https://asciinema.org/a/szJneOvmPD9VhJdj37vKOP52R)
 Calc: 
 ```
